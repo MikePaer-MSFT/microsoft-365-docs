@@ -194,6 +194,18 @@ Outlook
 <td><font size="-1">TBD
 <td><font size="-1">TBD
 <td><font size="-1">TBD
+  
+<tr><td><font size="-1">Support <a href="https://support.office.com/article/what-is-autosave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5">AutoSave</a> and <a href="https://support.office.com/article/document-collaboration-and-co-authoring-ee1509b4-1f6e-401e-b04a-782d26f564a4">co-authoring</a> on labeled and protected documents
+<td><font size="-1">TBD
+
+<td><font size="-1">TBD
+
+<td><font size="-1">TBD
+<td><font size="-1">n/a
+<td><font size="-1">TBD
+<td><font size="-1">n/a
+<td><font size="-1">TBD
+<td><font size="-1">n/a
 </table>
 
 <br><sup>1</sup>If configured, users are prompted to justify label downgrades. However, the justification data is not made available for administrators yet. It will become available when the “send label analytics data for administrators” capability is supported.
